@@ -32,7 +32,8 @@ OPENSKY_USERNAME=""
 OPENSKY_PASSWORD=""
 ```
 
-> [!NOTE] > **OPENSKY_USERNAME** refers to the username you signed up with and \***\*OPENSKY_PASSWORD** refers to the password you signed up with.
+> [!NOTE] 
+> **OPENSKY_USERNAME** refers to the username you signed up with and **OPENSKY_PASSWORD** refers to the password you signed up with.
 
 #### Using Docker
 
