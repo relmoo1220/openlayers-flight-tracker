@@ -1,5 +1,7 @@
 # OpenLayers Flight Tracker Project
 
+![demo](https://github.com/user-attachments/assets/8331ee55-694b-47d8-bb12-5d57209efe72)
+
 This project is a containerized web application that displays live flight data on a map using OpenLayers for map tiles and the OpenSky Network API for real-time flight information. The backend, built with NestJS, fetches live flight data from the OpenSky Network API and streams it to the frontend using Server-Sent Events (SSE). The frontend, built with SvelteKit, visualizes this data on an interactive map.
 
 This setup allows users to see live flight information seamlessly updated on a map, all while being hosted in a containerized environment for easy scaling and management.
